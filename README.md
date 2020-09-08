@@ -1,5 +1,6 @@
 Original Image
-![Home](/Images/LandRover/landRover.png) 
+![Home](/Images/LandRover/landRover.jpg) 
+---
 1-RGB To Gray:
 ![Home](/Images/LandRover/1-landRover_Gray.png) 
 2-Image Denoising: Bilateral Filter
